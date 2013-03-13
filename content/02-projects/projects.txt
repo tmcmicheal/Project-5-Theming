@@ -1,0 +1,17 @@
+﻿Title: Coffee Regions
+
+----
+
+Text: Did you know coffee flavors vary according to which region the beans are grown? Below is a brief list of the major regions and the type of coffee produced there.
+
+Central America: Balanced, Smooth, Nutty, Fragrant, Medium Acidity
+
+Caribbean: Excellent, Balanced, Smooth and Clear, Nutty, Chocolaty, Fragrant, Sharp
+
+South America: Mild, Soft, Balanced, Sharper than Central Americans
+
+African: Sharp, Pronounced, Clean, Assertive, Robust, Strong
+
+Asia/ Hawaiian: Full to Heavy Bodied, Smooth, Syrupy, Low Acidity, Sometimes Spicy or Winey
+
+India: Spicy, Can be Earthy, Unusual, Distinct and Complex

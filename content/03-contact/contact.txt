@@ -1,0 +1,14 @@
+﻿Title: Contact
+
+----
+
+Text: BY LOCATION:
+The Barista’s Handbook
+1234 Caffeine Dr. Suite 4A
+Seattle, WA 98101
+
+BY TELEPHONE:
+(206) 926-1032 
+
+BY EMAIL: 
+Info@baristashandbook.com
